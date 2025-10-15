@@ -1,8 +1,7 @@
 # Projects October 2025
 
 ## Text adventure Game/Editor [link](https://github.com/Cybo3D/TAG)
-this is an "engine" i made where you can make / play text based adventure games, it parses / serializes json.
-[unfinished]
+this is an "engine" i made where you can make / play text based adventure games, it parses / serializes json. [unfinished]
 ![](image.png)
 ![](image-1.png)
 ## Vestabord [link](https://github.com/Cybo3D/VESTABORD)
